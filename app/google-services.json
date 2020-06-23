@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "505172189088",
+    "firebase_url": "https://star-wars-charla.firebaseio.com",
+    "project_id": "star-wars-charla",
+    "storage_bucket": "star-wars-charla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505172189088:android:9d4ff14f99cd85b9f54ec5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505172189088-2hfrmh0kj3a9ktk8a3e2bsignvnjkjkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZEmBIGnOD5F7_o8QtbNbtGaR0x4jhZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505172189088-2hfrmh0kj3a9ktk8a3e2bsignvnjkjkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
